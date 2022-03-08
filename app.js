@@ -8,3 +8,4 @@ let multiplication = a * b * c * d;
 let division = b / a;
 
 let addition = a + b;
+let subtraction = b - a;
