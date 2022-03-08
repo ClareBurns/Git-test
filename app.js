@@ -6,3 +6,5 @@ let d = 1;
 let multiplication = a * b * c * d;
 
 let division = b / a;
+
+let subtraction = b - a;
