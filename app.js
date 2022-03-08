@@ -3,3 +3,5 @@ let b = 2;
 let c = 3;
 
 let multiplication = a * b * c;
+
+let division = b / a;
