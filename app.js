@@ -13,3 +13,6 @@ let subtraction = b - a;
 let remainder = b % a;
 
 let remainder2 = d % c;
+
+
+let string = "hello"; 
