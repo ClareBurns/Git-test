@@ -19,4 +19,5 @@ let array2 = [];
 for (let i = 0; i < 5; i++) {
   array2[i] = i;
 }
+let apple = [1, 2, 5];
 let string5 = "Fun!";
