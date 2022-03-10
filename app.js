@@ -16,3 +16,4 @@ let remainder2 = d % c;
 
 let string = "hello";
 let string2 = "universe";
+let string4 = "okay";
