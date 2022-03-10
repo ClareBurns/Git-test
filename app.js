@@ -20,4 +20,5 @@ let i = 0;
 while (i < 2) {
   array1[i] = i;
 }
+let apple = [1, 2, 5];
 let string5 = "Fun!";
