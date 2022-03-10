@@ -15,6 +15,8 @@ let remainder = b % a;
 let remainder2 = d % c;
 
 let string = "hello";
-let string2 = "universe";
-let string4 = "okay";
+let array2 = [];
+for (let i = 0; i < 5; i++) {
+  array2[i] = i;
+}
 let string5 = "Fun!";
